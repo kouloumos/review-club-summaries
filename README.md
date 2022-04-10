@@ -16,6 +16,10 @@ Summaries of what participants discussed during the weekly meetings of [Bitcoin 
 
 - \#23542 - [Open p2p connections to nodes that listen on non-default ports](posts/2022-02-16-%2323542.md)
 
+### Jan 2022
+
+- \#23201 - [Allow users to specify input weights when funding a transaction](posts/2022-01-19-%2323201.md)
+
 ### Dec 2020
 
 - \#19935 - [Move SaltedHashers to separate file and add some new ones](posts/2020-12-16-%2319935.md)
