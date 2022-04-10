@@ -3,6 +3,10 @@ Summaries of what participants discussed during the weekly meetings of [Bitcoin 
 
 ## Summaries
 
+### Apr 2022
+
+- \#24571 - [Prevent block index fingerprinting by sending additional getheaders messages](posts/2022-04-06-%2324571.md)
+
 ### Mar 2022
 
 - \#21778 - [LLVM 14 & LLD based macOS toolchain](posts/2022-03-23-%2321778.md)
