@@ -1,7 +1,12 @@
 # bitcoin-core-review-club-summaries
+
 Summaries of what participants discussed during the weekly meetings of [Bitcoin Core PR Review Club](https://github.com/bitcoin-core-review-club)
 
 ## Summaries
+
+### May 2022
+
+- \#24148 - [Miniscript support in Output Descriptors (part 1)](posts/2022-05-18-%2324148.md)
 
 ### Apr 2022
 
