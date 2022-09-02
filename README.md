@@ -7,6 +7,7 @@ Summaries of what participants discussed during the weekly meetings of [Bitcoin 
 ### May 2022
 
 - \#24148 - [Miniscript support in Output Descriptors (part 1)](posts/2022-05-18-%2324148.md)
+- \#24148 - [Miniscript support in Output Descriptors (part 2)](posts/2022-05-18-%2324148-2.md)
 
 ### Apr 2022
 
