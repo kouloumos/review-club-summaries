@@ -17,6 +17,7 @@ Summaries of what participants discussed during the weekly meetings of [Bitcoin 
 
 - \#21778 - [LLVM 14 & LLD based macOS toolchain](posts/2022-03-23-%2321778.md)
 - \#24118 - [Add 'sendall' RPC née sweep](posts/2022-03-16-%2324118.md)
+- \#19602 - [Migrate legacy wallets to descriptor wallets](posts/2022-03-09-%2319602.md)
 
 ### Feb 2022
 
