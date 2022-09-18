@@ -4,6 +4,10 @@ Summaries of what participants discussed during the weekly meetings of [Bitcoin 
 
 ## Summaries
 
+### August 2022
+
+- \#25720 - [Reduce bandwidth during initial headers sync when a block is found](posts/2022-08-10-%2325720.md)
+
 ### May 2022
 
 - \#24148 - [Miniscript support in Output Descriptors (part 1)](posts/2022-05-18-%2324148.md)
