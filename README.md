@@ -1,6 +1,8 @@
 # bitcoin-core-review-club-summaries
 
-Summaries of what participants discussed during the weekly meetings of [Bitcoin Core PR Review Club](https://github.com/bitcoin-core-review-club)
+Summaries of what participants discussed during the weekly meetings of [Bitcoin Core PR Review Club](https://github.com/bitcoin-core-review-club).
+
+Summaries are complementary to the meeting notes. You should first read the notes [:eyes:](https://bitcoincore.reviews/meetings/).
 
 ## Summaries
 
@@ -34,3 +36,7 @@ Summaries of what participants discussed during the weekly meetings of [Bitcoin 
 ### Dec 2020
 
 - \#19935 - [Move SaltedHashers to separate file and add some new ones](posts/2020-12-16-%2319935.md)
+
+### Nov 2019
+
+- \#15845 - [Fast rescan with BIP157 block filters](posts/2019-11-06-%2315845.md)
