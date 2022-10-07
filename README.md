@@ -2,9 +2,13 @@
 
 Summaries of what participants discussed during the weekly meetings of [Bitcoin Core PR Review Club](https://github.com/bitcoin-core-review-club).
 
-Summaries are complementary to the meeting notes. You should first read the notes [:eyes:](https://bitcoincore.reviews/meetings/).
+> :information_source: Summaries are complementary to the meeting notes. You should first read the notes [:eyes:](https://bitcoincore.reviews/meetings/).
 
 ## Summaries
+
+### Sep 2022
+
+- \#25957 - [fast rescan with BIP157 block filters for descriptor wallets](posts/2022-09-07-%2325957.md)
 
 ### August 2022
 
