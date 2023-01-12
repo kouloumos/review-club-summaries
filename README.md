@@ -6,6 +6,10 @@ Summaries of what participants discussed during the weekly meetings of [Bitcoin 
 
 ## Summaries
 
+### Dec 2022
+
+- \#26631 - [add coverage for dust mempool policy (-dustrelayfee setting)](posts/2022-12-14-%2326631.md)
+
 ### Sep 2022
 
 - \#25957 - [fast rescan with BIP157 block filters for descriptor wallets](posts/2022-09-07-%2325957.md)
